@@ -1,0 +1,10 @@
+h1 {
+    font-size: 1.5rem;
+    color: red;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+h2 {
+    color: rgba(247, 118, 118, 0.919);
+}
