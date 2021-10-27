@@ -375,6 +375,26 @@ a.menu-link { display: none; }
 
 }
 
+.slider {
+  display: block;
+  width: 250px;
+  margin: auto;
+  margin-left: 30px;
+  margin-top: 20px;
+  position: relative;
+}
+
+.slider li {
+  list-style: none;
+  position: absolute;
+}
+
+.slider img {
+  margin: auto;
+  height: 100%;
+  width: 100%;
+  vertical-align: top;
+}
 
 /* Features */
 
